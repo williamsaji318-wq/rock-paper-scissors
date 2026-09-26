@@ -20,7 +20,7 @@ later on i plan on adding a gui to this project.
 
 1. prompt user to start the game 
 2. create a conditional so that if user says start  call the function that starts the game 
-3.create a function to prompt user to enter the input rock paper or scissors and store the users choice in a variable that will be returned by the function
+3. create a function to prompt user to enter the input rock paper or scissors and store the users choice in a variable that will be returned by the function
 4. create a function that randomly picks rock papers or scissors by the computer  and stores the choice and then returns it 
 5. create a function that compares users choice and computers choice and picks the winner and returns it 
 6. create a round function that does a single round of the game combining all the previous functions/calls them  and returns the winner
